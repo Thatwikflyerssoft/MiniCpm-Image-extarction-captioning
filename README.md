@@ -1,0 +1,1 @@
+# MiniCpm-Image-extarction-captioning
